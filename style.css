@@ -1,0 +1,125 @@
+body {background-image: url(stripes.jpg);
+    background-repeat: no-repeat;
+background-size: cover;}
+
+.header{
+    color:white;
+}
+
+.date{
+    color:white;
+}
+
+.menu{
+    color:crimson;
+    font:40px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profile{
+    color:crimson;
+    font:40px;
+    flex: 1;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.profileHead{
+    color: whitesmoke;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.about{
+    color: antiquewhite;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.about1{
+    color: antiquewhite;
+    flex: 1;
+    display: flex;
+    justify-content: center;
+}
+
+.socialmedia{
+    color:antiquewhite;
+    display:flex;
+    justify-content: space-between;
+    flex-flow: row wrap;
+}
+
+.instagram{
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.youtube{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.menu1{
+    color:aquamarine;
+    display: flex;
+    justify-content:right;
+}
+
+.Projects{
+  display: flex;
+  /* flex-direction: row; */
+  justify-content: space-evenly;
+  flex-flow: row wrap;
+}
+
+.project1{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+.project2{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project3{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project4{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project5{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project6{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project7{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+.project8{
+    color:blanchedalmond;
+    flex-direction: row;
+}
+
+
+
+
+
